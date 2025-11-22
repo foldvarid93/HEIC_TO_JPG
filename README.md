@@ -2,6 +2,8 @@ HEIC to JPEG Converter
 
 This small GUI program converts .HEIC files to .JPG only when a matching .jpg doesn't already exist in the output folder.
 
+<img width="933" height="466" alt="2025-11-22 17_46_53-HEIC to JPEG Converter" src="https://github.com/user-attachments/assets/4209e3fe-3a2d-4c9d-abe0-406db32d233a" />
+
 Quick start (Windows):
 
 1. Install Python 3.8+ and ensure `python` is on PATH.
